@@ -68,5 +68,15 @@ O projeto segue o padrão de **arquitetura em camadas**:
   }
 }
 
-### Como executar 
+## 📦 Como Executar o Projeto
+
+```bash
+# Clone o repositório
+git clone [https://github.com/SEU_USUARIO/sistema-transportadora-springboot.git](https://github.com/SEU_USUARIO/sistema-transportadora-springboot.git)
+
+# Entre na pasta do projeto
+cd sistema-transportadora-springboot
+
+# Execute a aplicação
+./mvnw spring-boot:run
 
