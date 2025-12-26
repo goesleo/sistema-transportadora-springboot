@@ -83,7 +83,7 @@ cd sistema-transportadora-springboot
 ```
 ### disponível em: http://localhost:8080
 
-### 🚀 Próximos Passos
+### 🚀 Proximos Passos
 
     [ ] Implementar DTOs
 
@@ -95,7 +95,7 @@ cd sistema-transportadora-springboot
 
     [ ] Autenticação com Spring Security
 
-#👨‍💻 Autor
+# 👨‍💻 Autor
 
 Desenvolvido por Leonardo Góes
 
