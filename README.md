@@ -68,30 +68,3 @@ O projeto segue o padrão de **arquitetura em camadas**:
   }
 }
 
-###  
-Como Executar o Projeto
-git clone https://github.com/SEU_USUARIO/sistema-transportadora-springboot.git
-cd sistema-transportadora-springboot
-./mvnw spring-boot:run
-
-A aplicação estará disponível em:
-http://localhost:8080
-
-🚀 Próximos Passos
-
-Implementar DTOs
-
-Adicionar validações
-
-Tratamento de exceções
-
-Migrar para PostgreSQL
-
-Autenticação com Spring Security
-
-👨‍💻 Autor
-
-Desenvolvido por Leonardo Góes
-📌 Estudante de Engenharia de Software
-☕ Focado em Java & Spring Boot
-
