@@ -81,7 +81,7 @@ cd sistema-transportadora-springboot
 # Execute a aplicação
 ./mvnw spring-boot:run
 ```
-### A aplicação estará disponível em: http://localhost:8080
+### disponível em: http://localhost:8080
 
 ### 🚀 Próximos Passos
 
@@ -95,7 +95,7 @@ cd sistema-transportadora-springboot
 
     [ ] Autenticação com Spring Security
 
-👨‍💻 Autor
+#👨‍💻 Autor
 
 Desenvolvido por Leonardo Góes
 
